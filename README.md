@@ -56,9 +56,9 @@ q c g m x  z p / , .
 
 ### Can I Have Them ALL?
 
-Ofc mix and match variations as you please. Why are you asking for permission?
+Ofc, mix and match variations as you please. Why are you asking for permission?
 
-Wedlogk Q:
+#### Wedlogk Q
 
 ```
 w g d l k  j f o u q
