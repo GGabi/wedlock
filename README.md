@@ -24,6 +24,16 @@ q b g m x  z p / , .
 
 ## Variations
 
+### Wedlock GM
+
+This design simply swaps the GM and DL keys to make the BL bigram more comfortable, which is more common than the CL bigram.
+
+```
+w c g m k  j f o u '
+r s t h v  y n e i a
+q b d l x  z p / , .
+```
+
 ### Wedlock GB
 
 This design simply swaps the B and G keys to lower SfBs even further. This increases left ring finger usage and makes the BL scissor even worse.
@@ -42,16 +52,6 @@ Swap the Q and ' keys to gain the QU roll. This introduces a QUA redirect.
 w c d l k  j f o u q
 r s t h v  y n e i a
 ' b g m x  z p / , .
-```
-
-### Skewbald (Wedlobk)
-
-Swap the C and B keys to remove the BL scissor but gain the CL scissor. I don't use this because I value the CD roll as a developer.
-
-```
-w b d l k  j f o u '
-r s t h v  y n e i a
-q c g m x  z p / , .
 ```
 
 ### Can I Have Them ALL?
